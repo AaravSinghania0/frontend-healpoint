@@ -51,7 +51,7 @@ export default function Main() {
 					</div>
 					<div className="flex items-center justify-center w-full md:w-2/3 lg:w-1/2 flex-shrink-0">
 						<img
-							src="/img/hero.png"
+							src="img/hero.png"
 							className="rounded-3xl mix-blend-darken"
 						/>
 					</div>
