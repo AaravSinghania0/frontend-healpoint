@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: Gelica;
+  src: url("../../public/Demo_Fonts/Fontspring-DEMO-gelica-regular.otf") format("opentype");
+}
+@font-face {
+  font-family: Gelica-italic;
+  src: url("../../public/Demo_Fonts/Fontspring-DEMO-gelica-italic.otf") format("opentype");
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
